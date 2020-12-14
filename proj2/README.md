@@ -1,6 +1,6 @@
 Um programa em Python de simulacao de batalhas entre dois exercitos formados por unidades que se
 movimentam e atacam dentro de um labirinto 2D, podendo conter obstaculos.
-## 1 Simulacao de batalhas
+# 1 Simulacao de batalhas
 ## 1.1 Labirinto, unidades e exercitos
 O labirinto e definido de forma identica a do primeiro projeto, ou seja, e uma estrutura
 rectangular com posicoes indexadas a partir do canto superior esquerdo do labirinto, com
